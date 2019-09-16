@@ -6,4 +6,5 @@ public class User {
     private String address;
     //≥…‘± Ù–‘
     private String aaaa;
+    private String hobby;
 }
